@@ -1,4 +1,4 @@
-本项目FAork自马甲大佬的[天翼云自动签到程序](https://github.com/malaohu/Cloud189Checkin-Actions)，非原版
+本项目FAork自马甲大佬的[天翼云自动签到程序](https://github.com/malaohu/Cloud189Checkin-Actions)，非原版程序
 
 紧急通知：6月23日之前部署的老代码存在泄露账号密码的风险，已部署的童鞋赶紧处理一下！
 
